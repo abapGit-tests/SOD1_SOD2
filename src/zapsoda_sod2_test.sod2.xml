@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SOD2" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SOD2>
+    <METADATA>
+     <NAME>ZAPSODA_SOD2_TEST</NAME>
+     <TYPE>SOD2</TYPE>
+     <CHANGED_AT>2023-07-18T22:00:00Z</CHANGED_AT>
+     <CREATED_AT>2023-07-18T22:00:00Z</CREATED_AT>
+     <DESCRIPTION>ABAP Git Test Object SOD2</DESCRIPTION>
+     <DESCRIPTION_TEXT_LIMIT>80</DESCRIPTION_TEXT_LIMIT>
+     <LANGUAGE>EN</LANGUAGE>
+     <LINKS>
+      <item>
+       <HREF>versions</HREF>
+       <REL>http://www.sap.com/adt/relations/versions</REL>
+       <TITLE>Historic versions</TITLE>
+      </item>
+      <item>
+       <HREF>/sap/bc/adt/repository/informationsystem/abaplanguageversions?uri=%2Fsap%2Fbc%2Fadt%2Faps%2Fcom%2Fsod2%2Fzapsoda_sod2_test</HREF>
+       <REL>http://www.sap.com/adt/relations/informationsystem/abaplanguageversions</REL>
+       <TYPE>application/vnd.sap.adt.nameditems.v1+xml</TYPE>
+       <TITLE>Allowed ABAP language versions</TITLE>
+      </item>
+     </LINKS>
+     <RESPONSIBLE>NEKHODA</RESPONSIBLE>
+     <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
+     <MASTER_SYSTEM>YI3</MASTER_SYSTEM>
+     <PACKAGE_REF>
+      <URI>/sap/bc/adt/packages/%24zapsoda_abapgit</URI>
+      <TYPE>DEVC/K</TYPE>
+      <NAME>$ZAPSODA_ABAPGIT</NAME>
+      <DESCRIPTION>ABAP Git - Test Objects</DESCRIPTION>
+     </PACKAGE_REF>
+    </METADATA>
+    <CONTENT>
+     <ID>ZAPSODA_SOD2_TEST</ID>
+     <PACKAGE_ID>ZAPSODA_SOD1_TEST</PACKAGE_ID>
+     <OBJECT_TYPE>IWSV</OBJECT_TYPE>
+     <OBJECT_ID>APS_ODA_HOME_ODA_PACK_V2           0001</OBJECT_ID>
+     <CHANGE_USER>NEKHODA</CHANGE_USER>
+     <CHANGE_TIMESTAMP>20230719065410</CHANGE_TIMESTAMP>
+    </CONTENT>
+    <API_DETAILS>
+     <ODATA_V2_SERVICE>
+      <SERVICE_NAME>
+       <SERVICE_ID>APS_ODA_HOME_ODA_PACK_V2</SERVICE_ID>
+       <SERVICE_VERSION>0001</SERVICE_VERSION>
+      </SERVICE_NAME>
+     </ODATA_V2_SERVICE>
+    </API_DETAILS>
+    <PLUGIN_CONFIG>
+     <item>
+      <UI_OBJECT_ID>default_consumption_bundle_group</UI_OBJECT_ID>
+     </item>
+    </PLUGIN_CONFIG>
+   </SOD2>
+  </asx:values>
+ </asx:abap>
+</abapGit>
