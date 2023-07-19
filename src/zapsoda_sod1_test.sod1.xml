@@ -6,49 +6,17 @@
     <METADATA>
      <NAME>ZAPSODA_SOD1_TEST</NAME>
      <TYPE>SOD1</TYPE>
-     <CHANGED_AT>2023-07-18T22:00:00Z</CHANGED_AT>
-     <CREATED_AT>2023-07-18T22:00:00Z</CREATED_AT>
      <DESCRIPTION>ABAP Git Test Object SOD1</DESCRIPTION>
      <DESCRIPTION_TEXT_LIMIT>80</DESCRIPTION_TEXT_LIMIT>
      <LANGUAGE>EN</LANGUAGE>
-     <LINKS>
-      <item>
-       <HREF>versions</HREF>
-       <REL>http://www.sap.com/adt/relations/versions</REL>
-       <TITLE>Historic versions</TITLE>
-      </item>
-      <item>
-       <HREF>/sap/bc/adt/repository/informationsystem/abaplanguageversions?uri=%2Fsap%2Fbc%2Fadt%2Faps%2Fcom%2Fsod1%2Fzapsoda_sod1_test</HREF>
-       <REL>http://www.sap.com/adt/relations/informationsystem/abaplanguageversions</REL>
-       <TYPE>application/vnd.sap.adt.nameditems.v1+xml</TYPE>
-       <TITLE>Allowed ABAP language versions</TITLE>
-      </item>
-     </LINKS>
-     <RESPONSIBLE>NEKHODA</RESPONSIBLE>
      <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
-     <MASTER_SYSTEM>YI3</MASTER_SYSTEM>
-     <PACKAGE_REF>
-      <URI>/sap/bc/adt/packages/%24zapsoda_abapgit</URI>
-      <TYPE>DEVC/K</TYPE>
-      <NAME>$ZAPSODA_ABAPGIT</NAME>
-      <DESCRIPTION>ABAP Git - Test Objects</DESCRIPTION>
-     </PACKAGE_REF>
     </METADATA>
     <CONTENT>
      <ID>ZAPSODA_SOD1_TEST</ID>
      <NAMESPACE>abap.git.test</NAMESPACE>
      <ABBREVIATION>AG</ABBREVIATION>
      <TYPE>1</TYPE>
-     <CHANGE_USER>NEKHODA</CHANGE_USER>
-     <CHANGE_TIMESTAMP>20230719065113</CHANGE_TIMESTAMP>
     </CONTENT>
-    <PLUGIN_CONFIG>
-     <item>
-      <UI_OBJECT_ID>ui_attribute__type</UI_OBJECT_ID>
-      <IS_VISIBLE>X</IS_VISIBLE>
-      <IS_ENABLED>X</IS_ENABLED>
-     </item>
-    </PLUGIN_CONFIG>
    </SOD1>
   </asx:values>
  </asx:abap>
