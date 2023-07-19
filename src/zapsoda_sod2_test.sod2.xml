@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SOD2" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SOD2>
+    <METADATA>
+     <NAME>ZAPSODA_SOD2_TEST</NAME>
+     <TYPE>SOD2</TYPE>
+     <DESCRIPTION>ABAP Git Test Object SOD2</DESCRIPTION>
+     <DESCRIPTION_TEXT_LIMIT>80</DESCRIPTION_TEXT_LIMIT>
+     <LANGUAGE>EN</LANGUAGE>
+     <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
+    </METADATA>
+    <CONTENT>
+     <ID>ZAPSODA_SOD2_TEST</ID>
+     <PACKAGE_ID>ZAPSODA_SOD1_TEST</PACKAGE_ID>
+     <OBJECT_TYPE>IWSV</OBJECT_TYPE>
+     <OBJECT_ID>APS_ODA_HOME_ODA_PACK_V2           0001</OBJECT_ID>
+    </CONTENT>
+    <API_DETAILS>
+     <ODATA_V2_SERVICE>
+      <SERVICE_NAME>
+       <SERVICE_ID>APS_ODA_HOME_ODA_PACK_V2</SERVICE_ID>
+       <SERVICE_VERSION>0001</SERVICE_VERSION>
+      </SERVICE_NAME>
+     </ODATA_V2_SERVICE>
+    </API_DETAILS>
+   </SOD2>
+  </asx:values>
+ </asx:abap>
+</abapGit>

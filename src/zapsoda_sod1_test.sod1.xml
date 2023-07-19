@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SOD1" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SOD1>
+    <METADATA>
+     <NAME>ZAPSODA_SOD1_TEST</NAME>
+     <TYPE>SOD1</TYPE>
+     <DESCRIPTION>ABAP Git Test Object SOD1</DESCRIPTION>
+     <DESCRIPTION_TEXT_LIMIT>80</DESCRIPTION_TEXT_LIMIT>
+     <LANGUAGE>EN</LANGUAGE>
+     <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
+    </METADATA>
+    <CONTENT>
+     <ID>ZAPSODA_SOD1_TEST</ID>
+     <NAMESPACE>abap.git.test</NAMESPACE>
+     <ABBREVIATION>AG</ABBREVIATION>
+     <TYPE>1</TYPE>
+    </CONTENT>
+   </SOD1>
+  </asx:values>
+ </asx:abap>
+</abapGit>
